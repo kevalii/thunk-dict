@@ -56,7 +56,7 @@ For noncallable entries, thunk-dict works just like a regular dict. thunk-dict a
 
 From PyPi
 ```bash
-pip install lazy_dict
+pip install thunk-dict
 ```
 
 From source distribution
